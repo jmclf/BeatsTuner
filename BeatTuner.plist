@@ -11,7 +11,7 @@
                      <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/jmclf/Amazing/blob/master/AbsolutMixologic.ipa</string>
+                    <string>https://raw.githubusercontent.com/jmclf/BeatsTuner/master/BeatsTuner.ipa</string>
                  </dict>
                  <dict>
                      <key>kind</key>
@@ -33,15 +33,15 @@
              <key>metadata</key>
             <dict>s
                 <key>bundle-identifier</key>
-                 <string>com.AbsolutMixologic</string>
+                 <string>com.seekway.clf.BeatTuner</string>
                  <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                 <string>AbsolutMixologic</string>
+                 <string>BeatTuner</string>
                  <key>title</key>
-                 <string>AbsolutMixologic</string>
+                 <string>BeatTuner</string>
              </dict>
         </dict>
      </array>
